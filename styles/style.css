@@ -99,6 +99,11 @@ height: 141px;
 .fa-star.empty{
     color: #AEAEAE;
 }
+.course-duration{
+    border-radius: 8px;
+background-color:rgba(240, 128, 128, 0.685);
+    color: #FF4A60;
+}
 /* media queries  */
 @media only screen and (max-width:688px) {
     .containar{
